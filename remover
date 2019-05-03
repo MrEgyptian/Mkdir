@@ -1,0 +1,8 @@
+#!/bin/bash
+for i in {1..99}
+do
+        echo "Fuck you JMax $i times"
+        rm -rf "Fuck you JMax $i time"
+	rm -rf "remover $i"
+        ls
+done
