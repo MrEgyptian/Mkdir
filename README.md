@@ -1,2 +1,2 @@
 # Mkdir
-Fuck you JMax
+just directories maker in bash
